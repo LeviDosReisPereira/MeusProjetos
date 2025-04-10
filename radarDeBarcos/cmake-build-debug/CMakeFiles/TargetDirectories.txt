@@ -1,0 +1,3 @@
+C:/Users/kleoc/CLionProjects/miniProjeto/cmake-build-debug/CMakeFiles/miniProjeto.dir
+C:/Users/kleoc/CLionProjects/miniProjeto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kleoc/CLionProjects/miniProjeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
